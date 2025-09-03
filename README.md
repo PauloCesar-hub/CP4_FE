@@ -71,7 +71,7 @@ Link github pages(https://paulocesar-hub.github.io/cp4_fe/index.html)
 Este projeto está disponível sob a [MIT License](https://opensource.org/licenses/MIT) — ou outro que você preferir!
 
 ---
-##integrantes 
+## integrantes 
 - Paulo Cesar de Govea Junior - (RM:566034)
 - Guilherme Vilela Perez - (RM:564422)
 - Gustavo Panham Dourado - (RM:563904)
