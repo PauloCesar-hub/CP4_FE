@@ -71,6 +71,8 @@ Link github pages(https://paulocesar-hub.github.io/cp4_fe/index.html)
 Este projeto está disponível sob a [MIT License](https://opensource.org/licenses/MIT) — ou outro que você preferir!
 
 ---
+
+
 ## integrantes 
 - Paulo Cesar de Govea Junior - (RM:566034)
 - Guilherme Vilela Perez - (RM:564422)
@@ -78,4 +80,6 @@ Este projeto está disponível sob a [MIT License](https://opensource.org/licens
 - Christian Schunck de Almeida - (RM:563850)
 - Thomas Jeferson Santana Wang - (RM565104)
 
+  
+---
 **Divirta-se personalizando e aprimorando este e-commerce sustentável!**
